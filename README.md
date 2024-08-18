@@ -10,4 +10,5 @@ In response to the rapidly evolving market conditions, a leading computer hardwa
 I was tasked with leading this project, with the primary objective of developing a Power BI dashboard that could provide the Sales Director and his team with real-time sales insights. The goal was to enable more informed decision-making, improve response times to market changes, and ultimately drive business growth.
 
 Through the successful execution of this project, I delivered a robust Power BI solution that offered dynamic and actionable sales insights, empowering the business to navigate the complexities of the modern market effectively.
+https://github.com/SANDEEPGUJJALA/Sales_Insights/blob/main/Key%20Insights.png
 
