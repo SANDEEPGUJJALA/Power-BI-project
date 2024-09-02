@@ -13,6 +13,9 @@ Through the successful execution of this project, I delivered a robust Power BI 
 
 ![image](https://github.com/user-attachments/assets/3a9f9d91-bb6a-4fef-bc1a-d4d5692834e9)
 
+![image](https://github.com/user-attachments/assets/93eda6c6-5af5-4569-97b1-85bd2c50760d)
+
+
 
 
 
